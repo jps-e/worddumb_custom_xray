@@ -1,0 +1,1242 @@
+[
+[
+"Assassins",
+"ORG",
+"Guild of Sicariorum,Assassins,Conlegium Sicariorum,Assassins Guild",
+"The Assassins Guild is one of the most powerful among the Guilds of Ankh-Morpork. The Assassins have a high moral standard, in their own terms. They scrupulously stick to the rules of their Guild. Those rules include a prohibition of killing without a contract or fee. If you did, you would be a common murderer, not an Assassin (note the capitalization).",
+2,
+false
+],
+[
+"Beggars",
+"ORG",
+"Guild of Beggars, Beggars Guild",
+"The Beggars Guild is the oldest one of the more powerful Guilds in Ankh-Morpork. The Beggars control the different sorts of beggars allowed to operate and how many of them in each area of the city. Like the Thieves' Guild, the Beggars offer a form of insurance as well as the opportunity for direct charity. For a small fee, they can guarantee that no aggressive, unsightly, evil-smelling members will show up at your convention, daughter's wedding, or other special occasion.",
+2,
+false
+],
+[
+"Fools",
+"ORG",
+"",
+"The Fools' Guild is a trading and training organisation for clowns, jesters and other practitioners of slapstick humour. It is located in Ankh-Morpork, next door to the Guild of Assassins, for which it is often mistaken. ",
+2,
+false
+],
+[
+"Seamstresses",
+"ORG",
+"ladies of negotiable affection,",
+"The head of the Seamstresses' Guild is Rosemary Palm and their motto is: \"NIL VOLVPTI, SINE LVCRE\" (No pleasure without pay).",
+1,
+false
+],
+[
+"Thieves",
+"ORG",
+"",
+"The Thieves' Guild leader is Mr. Boggis and the modern, properly registered Thieves' Guild makes money mainly by having rich people pay an annual premium, and arrange for a convenient date to rob an acceptable amount from these rich clients in their own home. For the poorer (but not penniless) citizens who do not arrange for premiums and appointments, the Thieves quite politely rob them in the streets, in their business premises, or in their homes, not badly injuring them, and always leaving them a receipt which guarantees that these people will not be inconvenienced with another official robbery for the rest of the year.",
+1,
+false
+],
+[
+"Merchants",
+"ORG",
+"Chamber of Commerce,Guild of Merchants",
+"Along with attempting to protect its members, the Guild of Merchants is responsible for helping them to become rich. This is known as \"planned income-redistribution\".",
+1,
+false
+],
+[
+"71-Hour Ahmed",
+"PERSON",
+"Ahmed,wali",
+"A Klatchian warrior and bodyguard who accompanies his Prince, Khufurah, to Ankh-Morpork in the 21st Discworld novel, Jingo.",
+1,
+false
+],
+[
+"Ankh-Morpork",
+"GPE",
+"Big Wahoonie",
+"The largest city on the Disc with 1 million inhabitants, Its nickname is 'the Big Wahoonie' (an ugly, smelly fruit). Originally two cities separated by a river, Ankh and Morpork today are governed as one city-state. Ankh-Morpork contains the Assassins Guild, the Unseen University and the City Watch amongst many other famous Discworld institutions. Many of its denizens appear sporadically through the series in the novels set in the city.",
+1,
+false
+],
+[
+"Ankh-Morpork City Watch",
+"ORG",
+"Watchmen,Watch",
+"Ankh-Morpork's police force.",
+1,
+false
+],
+[
+"Sam Vimes",
+"PERSON",
+"Vimes,His Grace,Duke of Ankh,Commander Vimes,Sir Samuel,Samuel",
+"Commander of the Ankh-Morpork City Watch, husband of Lady Sybil Ramkin.",
+1,
+false
+],
+[
+"Carrot",
+"PERSON",
+"Captain Carrot, Carrot Ironfoundersson,Corporal Carrot,Kzad-bhat",
+"Carrot Ironfoundersson is an officer in the Ankh-Morpork City Watch. Carrot's main talents are his charisma and supernatural likability.",
+1,
+false
+],
+[
+"Angua",
+"PERSON",
+"Angua von Uberwald,Delphine,Delphine Angua von Uberwald,Constable Angua",
+"Delphine Angua von Uberwald is a werewolf and is the first woman in the Ankh-Morpork City Watch.",
+1,
+false
+],
+[
+"Sergeant Colon",
+"PERSON",
+"Fred,Sergeant Fred Colon,Sarge,Fred Colon",
+"Sergeant Fred Colon is overweight, cautious, unimaginative, reluctant to exert himself Sergeant in the Ankh-Morpork City Watch. He generally guards bridges or large buildings against theft.",
+1,
+false
+],
+[
+"Nobby Nobbs",
+"PERSON",
+"Nobby,Corporal Nobbs,Cecil Wormsborough St. John Nobbs,C. W. St. John Nobbs,C. W. St. J. Nobbs",
+"Corporal Nobbs is untidy, smelly, and about the size of a dwarf. He carries a certificate to prove he is, on the balance of probabilities, a human being. A running joke is the inability of others to believe this, despite-or even because of-the evidence. Sergeant Fred Colon is his partner and longtime friend. Nobby and Colon have strangely philosophical conversations.",
+1,
+false
+],
+[
+"Edward St John de Nobbes",
+"PERSON",
+"",
+"The last Earl of Ankh. Slope Nobbs is his illegitimate son, father of Sconner Nobbs, and grandfather of Nobby Nobbs.",
+2,
+false
+],
+[
+"Littlebottom",
+"PERSON",
+"Cheery Littlebottom,Cheery,Cheri,Cherie,Constable Littlebottom,Corporal Littlebottom,Sergeant Littlebottom",
+"Cheery Littlebottom is an alchemist dwarf and an officer and forensic expert in the Ankh-Morpork City Watch.",
+2,
+false
+],
+[
+"Actors Guild",
+"ORG",
+"",
+"The Actors Guild represents the interests of the City's thespians, mummers and hams, but definitely not mime-artists. Nobody can work in professional acting in Ankh-Morpork without holding a valid Actors' Guild membership card.",
+1,
+false
+],
+[
+"Canting Crew",
+"ORG",
+"",
+"The Canting Crew is a group of Ankh-Morpork beggars who are too anarchic for the Beggars Guild, including; Foul Ole Ron, Altogether Andrews, Coffin Henry, The Duck Man and Arnold Sideways.",
+1,
+false
+],
+[
+"Foul Ole Ron",
+"PERSON",
+"",
+"Foul Ole Ron is an Ankh-Morpork beggar in the Canting Crew.",
+1,
+false
+],
+[
+"Altogether Andrews",
+"PERSON",
+"",
+"Altogether Andrews is an Ankh-Morpork beggar in the Canting Crew.",
+1,
+false
+],
+[
+"Coffin Henry",
+"PERSON",
+"",
+"Coffin Henry is an Ankh-Morpork beggar in the Canting Crew.",
+1,
+false
+],
+[
+"Duck Man",
+"PERSON",
+"",
+"The Duck Man is the most coherent beggar in the Canting Crew, but is considered insane because he always has a duck on his head, which he denies.",
+1,
+false
+],
+[
+"Arnold Sideways",
+"PERSON",
+"",
+"Arnold Sideways is an Ankh-Morpork beggar in the Canting Crew.",
+1,
+false
+],
+[
+"Willie Hobson",
+"PERSON",
+"",
+"Willie Hobson runs Hobson's Livery Stable in Ankh-Morpork",
+1,
+false
+],
+[
+"Mr Hong",
+"PERSON",
+"",
+"Mr Hong is a part of Ankh-Morpork's collective memory.",
+1,
+false
+],
+[
+"General Ashal",
+"PERSON",
+"Ashal",
+"Ashal is a general in the Klatchian army.",
+0,
+false
+],
+[
+"Boggis",
+"",
+"Mr Boggis",
+"Mr Boggis is from an a noble family that goes back as far as any of the noble families and both the president of the Thieves' Guild and an auxiliary officer in the Ankh-Morpork Watch.",
+2,
+false
+],
+[
+"Rats Chamber",
+"LOC",
+"",
+"The Rats Chamber is the conference room at the Patrician's Palace which has a fresco of dancing rats on the ceiling, rat wall paper, rat carpet, and so on.",
+1,
+false
+],
+[
+"Doughnut Jimmy",
+"PERSON",
+"James Folsom",
+"Doughnut Jimmy is a horse doctor that treats humans.",
+1,
+false
+],
+[
+"Auditors of Reality",
+"ORG",
+"",
+"The Auditors of Reality are formless non-beings housed under grey cloaks with no distinguishing marks. Auditors do not speak; they re-arrange the world as they wish to express without words being uttered. They first appear in 'Reaper Man'.",
+1,
+false
+],
+[
+"Mavolio Bent",
+"PERSON",
+"",
+"Mavolio Bent is Head Cashier and all but in charge of the Royal Bank of Ankh-Morpork, He first appears in 'Making Money'.",
+1,
+false
+],
+[
+"Lieutenant Blouse",
+"PERSON",
+"",
+"Lieutenant Blouse is Polly Perks's Borogravian platoon commander in 'Monstrous Regiment'.",
+1,
+false
+],
+[
+"Burleigh",
+"PERSON",
+"Mr Burleigh",
+"Mr Burleigh is President of the Armourers Guild and co-owner with Pors Stronginthearm of the weapons manufacturing business Burleigh and Stronginthearm.",
+2,
+false
+],
+[
+"Brutha",
+"PERSON",
+"",
+"Brutha is an Omnian novice at the Citadel in the capital city of Kom in 'Small Gods'.",
+1,
+false
+],
+[
+"Seldom Bucket",
+"PERSON",
+"",
+"Seldom Bucket is a big man in cheese production in Ankh-Morpork.",
+1,
+false
+],
+[
+"Carcer Dun",
+"PERSON",
+"Carcer",
+"Carcer is the villain is a stone-cold killer with brains in 'Night Watch'.",
+1,
+false
+],
+[
+"Imp Y Celyn",
+"PERSON",
+"Buddy",
+"Imp Y Celyn is a bard from the mountainous country of Llamedos in 'Soul Music'.",
+1,
+false
+],
+[
+"Christine",
+"PERSON",
+"",
+"Christine is a blonde chorus singer at the Ankh-Morpork Opera House in 'Maskerade'.",
+1,
+false
+],
+[
+"Roland de Chumsfanleigh",
+"PERSON",
+"",
+"Roland de Chumsfanleigh, pronounced 'de Chuffley', is the son of the Baron of the Chalkland.",
+1,
+false
+],
+[
+"Cohen the Barbarian",
+"PERSON",
+"Ghenghiz Cohen",
+"Ghenghiz Cohen, known as Cohen the Barbarian, is a hero in the classical sense, that is, a professional thief, brawler and ravisher of women. Cohen is introduced in the second Discworld novel, 'The Light Fantastic'.",
+1,
+false
+],
+[
+"Conina",
+"PERSON",
+"",
+"Conina is the daughter of Cohen the Barbarian and a temple dancer, introduced in the fifth Discworld novel, Sourcery. Described as both a well-endowed, beautiful, and a skilled fighter due to attributes inherited from both parents, she nonetheless aspires to be a hairdresser, despite her natural talents as a barbarian heroine, where her genetics keep getting in the way, so she instinctively kills people who threaten her.",
+1,
+false
+],
+[
+"Mrs Marietta Cosmopilite",
+"PERSON",
+"Mrs Cosmopilite",
+"Mrs Cosmopilite is a dressmaker, who first appears in 10th Discworld novel, 'Moving Pictures' as 'Vice-President' of Costuming and Theda Withel's landlady. Mrs Cosmopilite holds some individualistic ideas and is venerated by the History Monks, who know that knowledge is greater if it comes from further away.",
+1,
+false
+],
+[
+"Sacharissa Cripslock",
+"PERSON",
+"",
+"Sacharissa Cripslock is the reporter for the 'Ankh-Morpork Times' appearing in the 25th Discworld novel 'The Truth' and subsequent novels, having originally arrived at the print-works to complain about the invention of moveable type putting her father, an engraver out of a job.",
+1,
+false
+],
+[
+"Adora Belle Dearheart",
+"PERSON",
+"Spike",
+"Adora Belle Dearheart is a cynical, angry chain-smoker. Her father Robert Dearheart, founded the Grand Trunk Semaphore Company. She has a position at the Golem Trust, an organisation that seeks to liberate golems from slavery.",
+1,
+false
+],
+[
+"Death",
+"PERSON",
+"Bill Door",
+"Death is Discworld's version of the Grim Reaper.",
+1,
+false
+],
+[
+"Mortimer",
+"PERSON",
+"Mort, Lord Mortimer,Duke of Sto Helit",
+"Death's apprentice",
+1,
+false
+],
+[
+"Ysabell",
+"PERSON",
+"",
+"Death's adopted daughter and wife of Mort.",
+1,
+false
+],
+[
+"Susan Sto Helit",
+"PERSON",
+"Duchess of Sto Helit,Lady Susan,Susan Death,Susan Sto-Helit",
+"Susan Sto Helit is the daughter and only child of Mort and Ysabell and is Death's granddaughter.",
+1,
+false
+],
+[
+"Alberto Malich",
+"PERSON",
+"Albert,Pixie Albert",
+"Death's manservant/valet/cook and founder anf first archchancellor of Unseen University.",
+1,
+false
+],
+[
+"Death of Rats",
+"PERSON",
+"Grim Squeaker",
+"The Death of Rats.",
+1,
+false
+],
+[
+"Claude Maximillian Overton Transpire Dibbler",
+"PERSON",
+"Dibbler,CMOT Dibbler,Cut-Me-Own-Throat",
+"Cut-Me-Own-Throat Dibbler is Discworld's most enterprisingly successful unsuccessful entrepreneur. CMOT's nickname originates from his catchphrase \".. and at that price, I'm cutting me own throat\".",
+1,
+false
+],
+[
+"Didactylos",
+"PERSON",
+"",
+"Didactylos is a Disc philosopher who bears more than a passing resemblance to Diogenes the Cynic.",
+1,
+false
+],
+[
+"Dragon King of Arms",
+"PERSON",
+"Dragon",
+"Dragon King of Arms is the vampire chief herald at the Royal College of Arms of Ankh-Morpork.",
+1,
+false
+],
+[
+"Evil Harry Dread",
+"PERSON",
+"Harry",
+"Evil Harry Dread is the archetypal, villainous counterpart to Cohen the Barbarian; an old fashioned heroic fantasy type annoyed with how the Discworld has changed.",
+1,
+false
+],
+[
+"Rufus Drumknott",
+"PERSON",
+"Drumknott,Rufus",
+"Rufus Drumknott is secretary to Lord Vetinari, the Patrician of Ankh-Morpork.",
+1,
+false
+],
+[
+"Gaspode the Wonder Dog",
+"PERSON",
+"Gaspode",
+"Named for the Gaspode who faithfully stayed by his master's grave and whined, he and a number of other animals gain self-awareness and the ability to speak when the Holy Wood Dream escapes.",
+1,
+false
+],
+[
+"Reacher Gilt",
+"PERSON",
+"",
+"Reacher Gilt is a ruthless businessman with a piratical appearance and is a shameless con-artist and fraudster.",
+1,
+false
+],
+[
+"JHC Goatberger",
+"PERSON",
+"",
+"JHC Goatberger is an Ankh-Morpork publisher.",
+1,
+false
+],
+[
+"Hrun the Barbarian",
+"PERSON",
+"",
+"Hrun the Barbarian is an archetypal fantasy barbarian hero of yore: hulking and muscle-bound yet slow-witted, battle-prone, and alcoholic.",
+1,
+false
+],
+[
+"Bergholdt Stuttley Johnson",
+"PERSON",
+"Bloody Stupid Johnson,BS Johnson",
+"Bloody Stupid Johnson is an inept engineer and landscape artist.",
+1,
+false
+],
+[
+"Princess Keli",
+"PERSON",
+"Kelirehenna, Keli",
+"Princess Keli is the daughter of King Olerve the Bastard of the Sto Plains kingdom of Sto Lat.",
+1,
+false
+],
+[
+"Harry King",
+"PERSON",
+"",
+"Harry King is one of Ankh-Morpork's most successful businessmen even though he started as a mudlark. His basic philosophy is that there is nothing that someone will pay to have removed that someone else will not also pay to acquire..",
+1,
+false
+],
+[
+"Euphemia King",
+"PERSON",
+"Effie",
+"Harry King's wife",
+1,
+false
+],
+[
+"Liessa Dragonlady",
+"PERSON",
+"Liessa",
+"Liessa Dragonlady, is the leader of the dragon-riders of the Wyrmberg and daughter of its lord. Liessa is the archetypal fantasy barbarian woman, she has curves and chestnut-red hair, and wears almost nothing but a chain-mail harness.",
+1,
+false
+],
+[
+"Lobsang Ludd",
+"PERSON",
+"Lobsang",
+"Lobsang Ludd was raised by the Ankh-Morpork Thieves guild, but discovered by the History Monks after Lobsang instinctually performed the Stance of the Coyote, as he fell from a roof thus saving his own life from a fatal fall.",
+1,
+false
+],
+[
+"Lu-Tze",
+"PERSON",
+"Lousy,Sweeper",
+"Lu-Tze is a six thousand years old sweeper at the History Monk Monastery of Oi-Dong in the Ramtop mountains. He travels the Disc, making sure 'history happens the way it ought to'.",
+1,
+false
+],
+[
+"Binky",
+"PERSON",
+"Binky is Death's steed, a living horse. Binky is more intelligent than most horses and is absolutely pure milky white. He can fly, travel through time and across dimensions.",
+"",
+1,
+false
+],
+[
+"Quoth The Raven",
+"PERSON",
+"Quoth",
+"Quoth is a talking raven who accompanies the Death of Rats, sometimes as steed and interpreter.",
+1,
+false
+],
+[
+"New Death",
+"PERSON",
+"",
+"New Death is the reaper for Death itself.",
+1,
+false
+],
+[
+"Nijel the Destroyer",
+"PERSON",
+"",
+"Nijel the Destroyer, son of Harebut the Provision Merchant, is a would-be barbarian hero",
+1,
+false
+],
+[
+"Mightily-Praiseworthy-Are-Ye-Who-Exalteth-Om Oats",
+"PERSON",
+"Mightily Oats",
+"Mightily Oats is an Omnian priest. He is always in two minds about everything due to his consideration of the conflicting viewpoints of the schismatic sects of Omnianism. His most noticeable feature is a boil on the side of his nose.",
+1,
+false
+],
+[
+"Great God Om",
+"PERSON",
+"Om,holy horns",
+"The Great God Om - holy horns - is the monotheistic God of the country of Omnia on the Circle Sea. Om manifests from the realm of the gods to Omnia to appear as a tortoise, where he spends some years forgetting he is a deity.",
+1,
+false
+],
+[
+"Rosemary Palm",
+"PERSON",
+"Rosie Palm",
+"Rosie Palm is the head of the Guild of 'Seamstresses'.",
+1,
+false
+],
+[
+"Polly Perks",
+"PERSON",
+"Oliver Perks,Ozzer",
+"Polly Perks is the protagonist in the 31st Discworld novel, 'Monstrous Regiment'. A Borogravian girl of 16 who joined the army under the name Oliver Perks in order to rescue her brother Paul and save her family's inn.",
+1,
+false
+],
+[
+"Walter Plinge",
+"PERSON",
+"",
+"Walter Plinge is an odd-job man at the Ankh-Morpork Opera House, an awkward nervy figure in a beret who has an Opera Ghost alter-ego.",
+1,
+false
+],
+[
+"Mr Pin",
+"PERSON",
+"",
+"Mr Pin is the brains of the New Firm, with Mr Tulip's brawn, a duo of interloping criminals freshly arrived in Ankh-Morpork.",
+1,
+false
+],
+[
+"Pteppicymon XXVIII",
+"PERSON",
+"Teppic,Pteppic,Teppicymon,Pteppicymon",
+"King Teppicymon XXVIII is Lord of the Heavens, Charioteer of the Wagon of the Sun, Steersman of the Barque of the Sun, Guardian of the Secret Knowledge, Lord of the Horizon, Keeper of the Way, the Flail of Mercy, the High-Born One, the Never-Dying King of Djelibeybi. Teppic is the first royal to physically leave the kingdom, to be educated at the Ankh-Morpork Assassins Guild.",
+1,
+false
+],
+[
+"Ptraci I",
+"PERSON",
+"",
+"Queen Ptraci I of Djelibeybi is Teppic's half-sister and successor. A former handmaiden and favourite of her father, she was originally condemned to death for not voluntarily dying in order to serve the previous king in the afterlife.",
+1,
+false
+],
+[
+"Ronald Rust",
+"PERSON",
+"Lord Rust,Ronnie,Ronny Rust,Rust",
+"Lord Rust is an Ankh-Morpork nobleman from a distinguished line. Lord Rust makes various appearances across the series where his arrogance and entitlement comes in opposition at various times with Sam Vimes. One of Rust's defining characteristics is his unsurpassed military incompetence.",
+1,
+false
+],
+[
+"Ronald Saveloy",
+"PERSON",
+"Saveloy",
+"Ronald Saveloy is a member of Cohen the Barbarian's Silver Horde. Unlike the elderly warriors that comprise the Horde, Saveloy is a former teacher from Ankh-Morpork. After discovering the Horde at a hideout of theirs whilst on a fossil hunting holiday, Saveloy joins them partly due to the underwhelming prospects of his academic career. Maintaining his mild-mannered demeanour including a vegetarian diet, he endeavours to 'civilise' the barbarians.",
+1,
+false
+],
+[
+"Mr Slant",
+"PERSON",
+"",
+"Mr Slant is the president of the Guild of Lawyers, a position that he has held for a long time owing to his being a zombie.",
+1,
+false
+],
+[
+"Lord Snapcase",
+"PERSON",
+"Mad Lord",
+"Lord Snapcase is the Patrician who came to power after Lord Winder following the Glorious Revolution of the Twenty-Fifth of May. During his reign, he was considered \"eccentric\" rather than mad by the upper classes, but he is now known by most Morporkians, including the nobles, as the Mad Lord. He was sadistic, and extremely fond of torture, much like his predecessor. Lord Snapcase was succeeded by Lord Havelock Vetinari.",
+1,
+false
+],
+[
+"Juliet Stollop",
+"PERSON",
+"",
+"Juliet Stollop is stunningly beautiful and utterly empty-headed. She becomes a society sensation overnight as a supermodel. A scion of a family of football hooligans, she falls in love with Trevor Likely, who supports an opposing team.",
+1,
+false
+],
+[
+"Glenda Sugarbean",
+"PERSON",
+"",
+"Glenda is a somewhat plump girl who runs the Night Kitchen in the Unseen University. She is the granddaughter of the chief cook at the Assassins Guild, from whom she has inherited a large number of secret recipes.",
+1,
+false
+],
+[
+"Findthee Swing",
+"PERSON",
+"Captain Swing",
+"Captain Swing is the head of the secret police force, the Unmentionables in the Ankh-Morpork of the past. He is described as a thin, balding man in a long, old-fashioned black coat with large pockets who supports himself on an opera cane, in reality a poorly concealed swordstick. Swing moves and speaks in an erratic, jumpy fashion, in bursts and sputters rather than a continuous flow of movement or sound.",
+1,
+false
+],
+[
+"Callus Tacticus",
+"PERSON",
+"General A Tacticus,General Tacticus,Tacticus",
+"General Callus Tacticus was a soldier of the Ankh-Morpork Empire, and is widely proclaimed to be the greatest general of all time. In fact, on the Discworld the word 'tactics' was derived from his name. He has been dead for nearly 2000 years. Tacticus conquered a large area of the Discworld, both around the city of Ankh-Morpork and well into the rimward continent of Klatch.",
+1,
+false
+],
+[
+"Tawneee",
+"PERSON",
+"Betty",
+"Tawneee (real name Betty) is an exotic dancer.",
+1,
+false
+],
+[
+"Salacia von Humpeding",
+"PERSON",
+"Sally",
+"Salacia von \"Sally\" von Humpeding is a vampire in the Ankh-Morpork City Watch. She is invariably described as looking stunning in any outfit.",
+1,
+false
+],
+[
+"Dorfl",
+"PERSON",
+"Constable Dorfl",
+"Dorfl is a golem with endless patience.",
+1,
+false
+],
+[
+"Jonathan Teatime",
+"PERSON",
+"",
+"Jonathan Teatime (tee-ah-tim-ee) is an assassin without equal. He gains a scholarship to the Assassins Guild, where he is considered peculiar and induces discomfort among even his fellow students.",
+1,
+false
+],
+[
+"Eric Thursley",
+"PERSON",
+"Eric",
+"Eric Thursley is a thirteen-year-old demonologist.",
+1,
+false
+],
+[
+"Victor Tugelbend",
+"PERSON",
+"Victor,Victor Maraschino",
+"Victor Tugelbend is a long-time Unseen University student wizard turned actor.",
+1,
+false
+],
+[
+"Mr Tulip",
+"PERSON",
+"",
+"Mr Tulip is, along with Mr Pin, a member of the New Firm, a duo of interloping criminals operating outside of the purview of the Thieves Guild. He is something of a contradiction: a remorseless killer with the refined soul of a true fine-art connoisseur.",
+1,
+false
+],
+[
+"Twoflower",
+"PERSON",
+"",
+"Twoflower is a native of the Agatean Empire, on the Counterweight Continent, living in the major sea port of Bes Pelargic where he works as an insurance clerk.  He is the first tourist in history on the Discworld,",
+1,
+false
+],
+[
+"Verence",
+"PERSON",
+"Verence II, King Verence",
+"Verence first appears as the jester of the newly crowned king of Lancre, Duke Felmet. He was previously the fool to King Verence I, as his father and grandfather were before him, it being a hereditary position.",
+1,
+false
+],
+[
+"Havelock Vetinari",
+"PERSON",
+"Lord Vetinari,Patrician,Vetinari",
+"Havelock Vetinari is the Patrician of Ankh-Morpork, where the maxim of \"One Man, One Vote\" holds true, the Patrician is the man, he has the vote. Vetinari was born into the extremely powerful Vetinari family and raised by his aunt, Lady Roberta Meserole. As a youth, he enrolled in the Assassins Guild which, apart from teaching its students how to kill other people for money, also gives them an excellent academic education.",
+1,
+false
+],
+[
+"Vorbis",
+"PERSON",
+"",
+"Vorbis is the Head of the Omnian Quisition, an exquisitor who believes he is destined to become the next Cenobiarch and Eighth Prophet of Omnianism.",
+1,
+false
+],
+[
+"Lord Winder",
+"PERSON",
+"Homicidal Lord Winder",
+"Lord Winder was a Patrician of Ankh-Morpork, and predecessor to Mad Lord Snapcase. Also known as Homicidal Lord Winder. During the last years of his reign, he was extremely paranoid, albeit with good reason. He took pride in being pathologically careful about everything, running Ankh-Morpork as a police state, with his dreaded Cable Street Particulars, under the command of Captain Swing, causing dissidents to disappear.",
+1,
+false
+],
+[
+"Esmerelda Weatherwax",
+"PERSON",
+"Esme,Granny Weatherwax.Mistress Weatherwax",
+"Granny Weatherwax is a witch and member of the Lancre coven.",
+1,
+false
+],
+[
+"Tiffany Aching",
+"PERSON",
+"",
+"Tiffany is a trainee witch. She hails from the Chalk, a Barony and a region of Downland Rimward of the Ramtops. Her family the Achings are the tenants of the Home Farm of the local Barony, the de Chumsfanleigh (pronounced de Chuffley). Tiffany begins her witching career at nine, upon being scouted out by the \"witch finder\" Miss Tick",
+1,
+false
+],
+[
+"Magrat Garlick",
+"PERSON",
+"",
+"Magrat Garlick is the daughter of Simplicity Garlick, granddaughter of Araminta Garlick and niece of Yvonnel Garlick. She was the original Maiden in the Lancre coven, which consisted of herself, Granny Weatherwax and Nanny Ogg.",
+1,
+false
+],
+[
+"Gytha Ogg",
+"PERSON",
+"Nanny Ogg",
+"Nanny Ogg is a witch in the the Lancre Coven. Gytha is known for her practical approach to magic and her no-nonsense attitude. She is also renowned for her culinary skills and is an excellent cook.",
+1,
+false
+],
+[
+"Agnes Nitt",
+"PERSON",
+"Perdita,Perdita X Dream",
+"Agnes Nitt is a witch in the the Lancre Coven. Agnes is a sensible young woman who suffers from a self-induced multiple personality disorder. Tired of being seen as just another overweight girl with \"a nice personality and good hair\", Agnes tried to create a new, more exciting persona for herself. Agnes calls this alter ego Perdita X Dream",
+1,
+false
+],
+[
+"Theda Withel",
+"PERSON",
+"Ginger Withel,Delores De Syn",
+"Theda Withel is from a little town you \"probably haven't heard of\". She uns away to Holy Wood to be \"the most famous person in the whole world\", where she takes the name Ginger. She stars in several movies using the name, Delores De Syn, making use of her onscreen chemistry with Victor Tugelbend, usually as the maiden to be rescued.",
+1,
+false
+],
+[
+"Unseen University",
+"ORG",
+"UU",
+"The Unseen University (UU) is a school of wizardry in the city of Ankh-Morpork. The UU is staffed by mostly indolent and inept old wizards. The university's name is a pun on the Invisible College, and many aspects of the university are references to Oxford and Cambridge University.",
+1,
+false
+],
+[
+"Mustrum Ridcully",
+"PERSON",
+"Archchancellor,Ridcully,Ridcully the Brown",
+"Mustrum Ridcully is the Archchancellor of Unseen University.",
+1,
+false
+],
+[
+"A.A. Dinwiddie",
+"PERSON",
+"Bursar",
+"Professor A.A. Dinwiddie becomes the Unseen University treasurer after the previous Bursar, Spelter, was killed trying to save the library from destruction.",
+1,
+false
+],
+[
+"Dean of Pentacles",
+"PERSON",
+"Dean,The Dean,Archchancellor Henry,Archchancellor Henry",
+"The Dean of Pentacles at Unseen University is a senior wizard, archetypally argumentative and lazy. He is generally found in his study reading a grimoire or more likely, in the great hall, eating. The Dean is particularly susceptible to occult or semi-magical occurrences, fads, or trends.",
+1,
+false
+],
+[
+"Librarian",
+"PERSON",
+"Horace Worblehat",
+"The Librarian at Unseen University was transformed into an orang-utan in a magical accident. On discovering that being an orang-utan had certain advantages for a librarian he refused to be transformed back into a human and has remained an orang-utan ever since.",
+1,
+false
+],
+[
+"Ponder Stibbons",
+"PERSON",
+"Head of Inadvisably Applied Magic,Praelector and Reader in Invisible Writings,Master of Traditions,Camerlengo",
+"As Head of Inadvisably Applied Magic, Praelector and Reader in Invisible Writings, the Master of Traditions, the Camerlengo of Unseen University, and heeper of Hex, the university's computer, and the right-hand man of Archchancellor Ridcully, Ponder Stibbons is the one person in the organisation who knows what's going on.",
+1,
+false
+],
+[
+"Rincewind",
+"PERSON",
+"",
+"Chair of Experimental Serendipity,Chair for the Public Misunderstanding of Magic,Professor of Virtual Anthropology,Egregious Professor of Cruel and Unusual Geography,Reader in Slood Dynamics,Fretwork Teacher,Lecturer in Approximate Accuracy,ealth and Safety Officer,Assistant Librarian, Rincewind is a failed student at Unseen University for wizards in Ankh-Morpork, often described as \"the magical equivalent to the number zero\". He spends most of his time running away from people who wanted to kill him for various reasons.",
+1,
+false
+],
+[
+"John Hix",
+"PERSON",
+"John Hicks,Doctor Hix,Dr Hix,Dr John Hix",
+"Dr John Hix is Head of the Department of Postmortem Communications at Unseen University. Hix frequently misbehaves, performs evil deeds and makes comments in bad taste as he is required to under university statute, a fact which the other members of UU grudgingly accept.",
+1,
+false
+],
+[
+"Hex",
+"PERSON",
+"",
+"Hex is a continually growing, magic-powered, self-building computer featuring ants and cheese as part of his architecture, and is housed in the basement of the High Energy Magic Building at Unseen University. Ponder Stibbons has by default become the person in charge of developing and operating Hex, though he admits that Hex largely develops itself.",
+1,
+false
+],
+[
+"Eskarina Smith",
+"PERSON",
+"Esk",
+"Esk is Unseen University's first and only known female graduate. She is described as being both old and young due to her mastery of time travel.",
+1,
+false
+],
+[
+"Adrian Turnipseed",
+"PERSON",
+"",
+"Former Unseen University student",
+1,
+false
+],
+[
+"Ly Tin Wheedle",
+"PERSON",
+"Ly",
+"Ly Tin Wheedle is a Discworld philosopher from the Counterweight Continent that is is revered as a great sage for his many sayings.",
+1,
+false
+],
+[
+"Lupine Wonse",
+"PERSON",
+"Lupine,Wonse",
+"Lupine Wonse is a former childhood gang associate of Sam Vimes who rises to the prominent role of being the secretary to Lord Vetinari.",
+1,
+false
+],
+[
+"William de Worde",
+"PERSON",
+"",
+"William de Worde is a professional scribe who becomes the editor of the Disc's first newspaper, The Ankh-Morpork Times when the printing press is invented in Ankh-Morpork.",
+1,
+false
+],
+[
+"Sergeant Detritus",
+"PERSON",
+"Detritus",
+"Sergeant Detritus is the first troll to join the City Watch, hired under Lord Vetinari's \"special hiring procedures`\",s at the same time as Cuddy (a dwarf) and Angua (a werewolf). Before getting this job, Detritus had been a splatter (like a bouncer, but with more force) and hired muscle for various establishments in Ankh-Morpork.",
+1,
+false
+],
+[
+"Gaspode",
+"PERSON",
+"Wonder Dog",
+"Gaspode the Wonder Dog is a small terrier-like mongrel dog living in Ankh-Morpork who has the ability to think and speak like a human being. He can usually be found accompanying the Canting Crew around Ankh-Morpork, where he acts as a thinking-brain dog for Foul Ole Ron.Gaspode is somewhat scheming and avoids interacting with humans outside of his own interests, which he explains as a good survival trait for a stray animal's rough life.",
+1,
+false
+],
+[
+"Leonard of Quirm",
+"PERSON",
+"Leonard,Leonardo,da Quirm",
+"Leonard of Quirm is a great engineer, inventor, tinkerer and painter, living in Ankh-Morpork as a \"a prisoner in the Patrician's Palace\".",
+1,
+false
+],
+[
+"Miss Triplet",
+"PERSON",
+"Triplet",
+"Miss Triplet is the senior housemaid at the Patrician's Palace who is entrusted with \"doing\" for Leonard of Quirm. This is a trial for Leonard as he would never notice the dust, if left entirely to his own Devices, and he bemoans her ability to lose and misplace things.",
+1,
+false
+],
+[
+"Mrs. Whitlow",
+"PERSON",
+"",
+"Mrs. Whitlow is Unseen University's Head of Housekeeping. She is very modest (to the point of not wanting to show her ankles), but also be quite forthright and direct when necessary.",
+1,
+false
+],
+[
+"Lady Sybil",
+"PERSON",
+"Duchess of Ankh,Her Grace,Lady Sybil Deirdre Olgivanna Ramkin-Vimes",
+"Lady Sybil Deirdre Olgivanna Ramkin-Vimes is the last scion of one of the oldest clans of the Ankh nobility, the Ramkins (while there are still a few of the old noble families around, there are also many new nobility, civic figures given Lord titles by the Patricians down the ages).",
+1,
+false
+],
+[
+"Reg Shoe",
+"PERSON",
+"Reg,Constable Shoe",
+"Reg Shoe is the first zombie member of the Ankh-Morpork City Watch.",
+1,
+false
+],
+[
+"Constable Visit",
+"PERSON",
+"Washpot",
+"Constable Visit is a constable of the City Watch. He is a gentle but determined Omnian proselytiser who can clear a large crowd in seconds by talking religion and offering pamphlets.",
+1,
+false
+],
+[
+"Inspector A E Pessimal",
+"PERSON",
+"A. E. Pessimal",
+"A. E. Pessimal is the inspector assigned by Lord Vetinari to inspect the Watch and judge whether they gave fair value (\"who watches the watchmen?\") and to inspect the Unseen University. Described as a neat little man with very shiny shoes, no friends, and no sense of humour, he does not have a first name, and was \"initialled\" at birth rather than named. ",
+1,
+false
+],
+[
+"Constable Downspout",
+"PERSON",
+"",
+"Constable Downspout, physically a gargoyle, is able to remain motionless in one spot and watch for days at a time,",
+1,
+false
+],
+[
+"Willikins",
+"PERSON",
+"",
+"Willikins is the butler of Sybil Ramkin and, after their marriage, Sam Vimes",
+1,
+false
+],
+[
+"Corporal Buggy Swires",
+"PERSON",
+"Buggy",
+"Corporal Buggy Swires is a gnome with a hard-nosed, bellicose personality typical of his species and can shout down uncooperative witnesses despite being only six inches tall.",
+1,
+false
+],
+[
+"Klatch",
+"LOC",
+"",
+"Klatch is a continent and a country, part of the same land mass as the main continent but is often considered a separate continent. The stereotypical view of Klatch by the average Ankh-Morporkian is a huge, barren, baking land of sand, desert, camels, and figs",
+1,
+false
+],
+[
+"Al-Khali",
+"LOC",
+"Khali",
+"Al-Khali, an ancient and prosperous city, is the current capital of Klatch and is located on the opposite shore of the Circle Sea to Ankh-Morpork and the Sto Plains, near the mouth of the Tsort River.",
+1,
+false
+],
+[
+"Lord Selachii",
+"PERSON",
+"Selachii",
+"Lord Selachii is of one of Ankh-Morpork's most socially prominent families and is a licensed Assassin married to Lady Selachii.",
+1,
+false
+],
+[
+"Lady Selachii",
+"PERSON",
+"",
+"Lady Selachii is the wife of Lord Selachii and is the family leader when it comes to throwing parties and acknowledging dubious heirs to old titles.",
+1,
+false
+],
+[
+"Dis-organizer",
+"PRODUCT",
+"",
+"The dis-organizer is a Discworld analog to an electronic personal organizer",
+1,
+false
+],
+[
+"Gebra",
+"LOC",
+"",
+"Gebra is a city in the country Klatch.",
+1,
+false
+],
+[
+"Solid Jackson",
+"PERSON",
+"Mr. Jackson",
+"Solid Jackson is a Circle Sea Curious Squid fisherman from Ankh-Morpork and father to Les Jackson.",
+2,
+false
+],
+[
+"Les Jackson",
+"PERSON",
+"Les",
+"Les Jackson is the son of fisherman Solid Jackson.",
+2,
+false
+],
+[
+"Downey",
+"PERSON",
+"Lord Downey",
+"Downey is an Assassin educated at the Guild School at roughly the same time as Lord Vetinari where Downey was School Bully.",
+2,
+false
+],
+[
+"Cranberry",
+"PERSON",
+"Professor Cranberry",
+"\"Professor\" Cranberry is a well-read, highly intelligent Assassin.",
+1,
+false
+],
+[
+"Winvoe",
+"PERSON",
+"",
+"Mr Winvoe is Treasurer of the Assassins Guild.",
+1,
+false
+],
+[
+"Stren Withel",
+"PERSON",
+"Withel,Stren",
+"Stren Withel, who works with Ymor, is the second best thief in Ankh-Morpork after Ymor.",
+2,
+false
+],
+[
+"Ymor",
+"PERSON",
+"",
+"Ymor is the head of the Thieves' Guild. He uses a network of ravens as messengers and guards, and the ravens are notoriously loyal to him.",
+1,
+false
+],
+[
+"Circle Sea",
+"LOC",
+"",
+"The Circle Sea is a small circular sea on the main continent of the Discworld that is about 580 miles wide. It opens turnwise to the Rim Ocean, and around it can be found many of the most prominent cities and nations of the Disc, namely Ankh-Morpork on the hubwards side, and on the rimwards Klatchian side, Klatch, Ephebe, Tsort, Djelibeybi and Omnia.",
+2,
+false
+],
+[
+"Curious Squid",
+"MISC",
+"",
+"Curious squid are squid in the Circle Sea, notable for terrible foul taste and for their interest in anything new that presents itself in their environment. Curious squid are fished for connoisseurs who want to taste a course that contains no trace of the squid.",
+2,
+false
+],
+[
+"Dere Mum",
+"PERSON",
+"dere",
+"",
+null,
+true
+],
+[
+"dey",
+"PERSON",
+"",
+"",
+null,
+true
+],
+[
+"Yez",
+"PERSON",
+"",
+"",
+null,
+true
+],
+[
+"Bingeley",
+"MISC",
+"",
+"",
+null,
+true
+],
+[
+"Huthuthut",
+"MISC",
+"",
+"",
+0,
+true
+],
+[
+"Beer",
+"PRODUCT",
+"",
+"",
+0,
+true
+],
+[
+"Birthplace",
+"MISC",
+"",
+"",
+0,
+true
+],
+[
+"Gait",
+"MISC",
+"",
+"",
+0,
+true
+],
+[
+"Weight",
+"MISC",
+"",
+"",
+0,
+true
+],
+[
+"Fredor",
+"PERSON",
+"",
+"",
+0,
+true
+]
+]
