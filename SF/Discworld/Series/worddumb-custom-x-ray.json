@@ -1153,7 +1153,7 @@ false
 ],
 [
 "Curious Squid",
-"MISC",
+"LOC",
 "",
 "Curious squid are squid in the Circle Sea, notable for terrible foul taste and for their interest in anything new that presents itself in their environment. Curious squid are fished for connoisseurs who want to taste a course that contains no trace of the squid.",
 2,
@@ -1162,11 +1162,11 @@ false
 ["Dere Mum","PERSON","dere","",null,true],
 ["dey","PERSON","","",null,true],
 ["Yez","PERSON","","",null,true],
-["Bingeley","MISC","","",null,true],
-["Huthuthut","MISC","","",0,true],
+["Bingeley","LOC","","",null,true],
+["Huthuthut","LOC","","",0,true],
 ["Beer","PRODUCT","","",0,true],
-["Birthplace","MISC","","",0,true],
-["Gait","MISC","","",0,true],
-["Weight","MISC","","",0,true],
+["Birthplace","LOC","","",0,true],
+["Gait","LOC","","",0,true],
+["Weight","LOC","","",0,true],
 ["Fredor","PERSON","","",0,true]
 ]
