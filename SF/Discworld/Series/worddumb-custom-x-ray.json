@@ -1,5 +1,13 @@
 [
 [
+"Agatean Empire",
+"GPE",
+"",
+"The Agatean Empire is the political entity that rules over the entire Counterweight Continent,",
+2,
+false
+],
+[
 "Assassins",
 "ORG",
 "Guild of Sicariorum,Assassins,Conlegium Sicariorum,Assassins Guild",
@@ -80,11 +88,19 @@ false
 false
 ],
 [
+"Bel-Shamharoth",
+"PERSON",
+"Soul-Eater,Soul-Render,Sender of Eight",
+"Bel-Shamharoth (also known as the \"Soul-Eater,\" the \"Soul-Render,\" or the \"Sender of Eight\") is an ancient, dark god.",
+1,
+false
+],
+[
 "Carrot",
 "PERSON",
 "Captain Carrot, Carrot Ironfoundersson,Corporal Carrot,Kzad-bhat",
 "Carrot Ironfoundersson is an officer in the Ankh-Morpork City Watch. Carrot's main talents are his charisma and supernatural likability.",
-1,
+2,
 false
 ],
 [
@@ -125,6 +141,14 @@ false
 "Cheery Littlebottom,Cheery,Cheri,Cherie,Constable Littlebottom,Corporal Littlebottom,Sergeant Littlebottom",
 "Cheery Littlebottom is an alchemist dwarf and an officer and forensic expert in the Ankh-Morpork City Watch.",
 2,
+false
+],
+[
+"Offler",
+"PERSON",
+"",
+"Offler, a crocodile god originating from Klatch, is one of the major gods of the Discworld.",
+1,
 false
 ],
 [
@@ -440,6 +464,14 @@ false
 false
 ],
 [
+"Garhartra",
+"PERSON",
+"Guestmaster",
+"Garhartra has the job of welcoming visitors to Krull.",
+1,
+false
+],
+[
 "Gaspode the Wonder Dog",
 "PERSON",
 "Gaspode",
@@ -461,6 +493,14 @@ false
 "",
 "JHC Goatberger is an Ankh-Morpork publisher.",
 1,
+false
+],
+[
+"Great Nef",
+"LOC",
+"Great Nef Desert",
+"The Great Nef is an incredibly dry desert on the continent of Klatch.",
+2,
 false
 ],
 [
@@ -504,11 +544,19 @@ false
 false
 ],
 [
+"Liartes",
+"PERSON",
+"Liartes",
+"Liartes Wyrmbidder (Dragonlord) is the more careful and thoughtful of the two sons of the late Greicha, ruler of Wyrmberg",
+2,
+false
+],
+[
 "Liessa Dragonlady",
 "PERSON",
 "Liessa",
-"Liessa Dragonlady, is the leader of the dragon-riders of the Wyrmberg and daughter of its lord. Liessa is the archetypal fantasy barbarian woman, she has curves and chestnut-red hair, and wears almost nothing but a chain-mail harness.",
-1,
+"Liessa Dragonlady, is the leader of the dragon-riders of the Wyrmberg and daughter of its lord. Liessa is the archetypal fantasy barbarian woman.",
+2,
 false
 ],
 [
@@ -651,7 +699,7 @@ false
 "Lord Snapcase",
 "PERSON",
 "Mad Lord",
-"Lord Snapcase is the Patrician who came to power after Lord Winder following the Glorious Revolution of the Twenty-Fifth of May. During his reign, he was considered \"eccentric\" rather than mad by the upper classes, but he is now known by most Morporkians, including the nobles, as the Mad Lord. He was sadistic, and extremely fond of torture, much like his predecessor. Lord Snapcase was succeeded by Lord Havelock Vetinari.",
+"Lord Snapcase is the Patrician who came to power after Lord Winder following the Glorious Revolution of the Twenty-Fifth of May. During his reign, he was considered eccentric rather than mad by the upper classes, but he is now known by most Morporkians, including the nobles, as the Mad Lord. He was sadistic, and extremely fond of torture, much like his predecessor. Lord Snapcase was succeeded by Lord Havelock Vetinari.",
 1,
 false
 ],
@@ -699,7 +747,7 @@ false
 "Salacia von Humpeding",
 "PERSON",
 "Sally",
-"Salacia von \"Sally\" von Humpeding is a vampire in the Ankh-Morpork City Watch. She is invariably described as looking stunning in any outfit.",
+"Salacia \"Sally\" von Humpeding is a vampire in the Ankh-Morpork City Watch. She is invariably described as looking stunning in any outfit.",
 1,
 false
 ],
@@ -760,10 +808,10 @@ false
 false
 ],
 [
-"Havelock Vetinari",
+"Patrician",
 "PERSON",
-"Lord Vetinari,Patrician,Vetinari",
-"Havelock Vetinari is the Patrician of Ankh-Morpork, where the maxim of \"One Man, One Vote\" holds true, the Patrician is the man, he has the vote. Vetinari was born into the extremely powerful Vetinari family and raised by his aunt, Lady Roberta Meserole. As a youth, he enrolled in the Assassins Guild which, apart from teaching its students how to kill other people for money, also gives them an excellent academic education.",
+"Lord Vetinari,Havelock Vetinari,Vetinari",
+"The Patrician is the ruler (read: \"dictator for life\") of Ankh-Morpork since the end of the monarchy.",
 1,
 false
 ],
@@ -1159,6 +1207,275 @@ false
 2,
 false
 ],
+[
+"Berilia",
+"PERSON",
+"",
+"Berilia is one of the four mighty World Elephants that stand upon the carapace of Great A'Tuin the World Turtle, and upon whose massive shoulders revolves the Discworld itself. The others are Tubul, Jerakeen, and Great T'Phon.",
+2,
+false
+],
+[
+"Jerakeen",
+"PERSON",
+"",
+"Jerakeen is one of the four mighty World Elephants that stand upon the carapace of Great A'Tuin the World Turtle, and upon whose massive shoulders revolves the Discworld itself. The others are Berilia, Tubul, and Great T'Phon.",
+2,
+false
+],
+[
+"Tubul",
+"PERSON",
+"",
+"Tubul is one of the four mighty World Elephants that stand upon the carapace of Great A'Tuin the World Turtle, and upon whose massive shoulders revolves the Discworld itself. The others are Berilia, Jerakeen, and Great T'Phon.",
+2,
+false
+],
+[
+"Arch-astronomer",
+"PERSON",
+"Archastronomer",
+"The Arch-Astronomer of Krull.",
+2,
+false
+],
+[
+"Blind Hugh",
+"PERSON",
+"",
+"Blind Hugh is a beggar that can sense small amounts of gold at a distance.",
+2,
+false
+],
+[
+"Blind Io",
+"PERSON",
+"",
+"Blind Io is chief of the Discworld gods. The eye sockets on his face are covered by blank skin, but many all seeing eyeballs swarm around his head.",
+2,
+false
+],
+[
+"Broadman",
+"PERSON",
+"",
+"Broadman is the inkeeper of the Broken Drum tavern in Ankh-Morpork",
+2,
+false
+],
+[
+"Bes Pelargic",
+"LOC",
+"",
+"Bes Pelargic is a major seaport in the Agatean Empire whose esidents have much more contact with foreigners (mainly sailors from neighboring countries such as Trob).`",
+2,
+false
+],
+[
+"Broken Drum",
+"LOC",
+"Mended Drum,Drum",
+"The Broken Drum is a well-known disreputable tavern in Ankh-Morpork.",
+2,
+false
+],
+[
+"Brown Islands",
+"PERSON",
+"",
+"The Brown Islands are about one week's sailing widdershins from the Counterweight continent.",
+2,
+false
+],
+[
+"Bravd",
+"PERSON",
+"Bravd the Hublander",
+"Bravd is a tall warrior who swings a sword only marginally shorter than the average man",
+2,
+false
+],
+[
+"Gorphal",
+"PERSON",
+"",
+"Gorphal advises the Patrician on the Agatean empire.",
+2,
+false
+],
+[
+"Greicha",
+"PERSON",
+"",
+"The former ruler of the Wyrmberg and a very powerful wizard",
+2,
+false
+],
+[
+"Hub",
+"LOC",
+"Hubland",
+"Hubland is the area at the center of Discworld; it is a cold region, receiving the least amount of sun, rising above sea level and becoming more and more mountainous as one nears the exact center of the Disc.",
+2,
+false
+],
+[
+"iconograph",
+"PRODUCT",
+"",
+"An iconograph is a device that allows you to make \"instantaneous paintings by an imp inside with brushes, pencils and a good eye for colors.\".",
+2,
+false
+],
+[
+"octiron",
+"PRODUCT",
+"",
+"The metal octiron makes up most of the mass of the Counterwight Continent, but it is rare elsewhere.",
+0,
+false
+],
+[
+"Kring",
+"PRODUCT",
+"",
+"Kring is a magical black sword ",
+2,
+false
+],
+[
+"Krull",
+"LOC",
+"",
+"Krull is a large mountainous and wooded island at the Rim of the Disc and also the name of its capital. It has a mountain slightly overhanging the Edge of the Disc.",
+2,
+false
+],
+[
+"Lady",
+"PERSON",
+"",
+"Participant in a board game among gods.",
+2,
+false
+],
+[
+"Luggage",
+"PERSON",
+"",
+"The Luggage is a trunk with legs. It is made of sapient pearwood, and is immensely faithful. Its first owner was a tourist called Twoflower.",
+2,
+false
+],
+[
+"Rim",
+"LOC",
+"Edge",
+"The Rim is the edge of the Discworld. It is about thirty miles thick. It's the end of the world, where water continuously falls off in what is known as the Rimfall.",
+2,
+false
+],
+[
+"Rimfall",
+"LOC",
+"",
+"The Rimfall is the endless waterfall of the Rim. It endlessly flows into space, taking many unfortunate things and creatures with it. The Discworld's water never runs out due to the Disc's magic.",
+2,
+false
+],
+[
+"Trob",
+"LOC",
+"",
+"Trob is an island whose sailors sometimes visit the Counterweight Continent. The beTrobi people are fairly simple and speak in metaphors. It is common knowledge of their language that first allows Rincewind and Twoflower to communicate.",
+2,
+false
+],
+[
+"Magical Quarter",
+"LOC",
+"Wizards Quarter,Magicians Quarter",
+"The name for the district of Ankh-Morpork comprising Unseen University, Sator Square, and the Unreal Estate.",
+2,
+false
+],
+[
+"Octavo",
+"LOC",
+"Eight Great Spells, Great Spells",
+"The Octavo contains the great eight spells which the Creator himself used to create the Discworld.",
+2,
+false
+],
+[
+"rhinu",
+"PRODUCT",
+"",
+"The rhinu is the standard unit of currency in the Agatean Empire. In its usual form as a pure gold coin, it can be divided into half-rhinu and quarter-rhinu pieces, for ease of making small purchases.",
+2,
+false
+],
+[
+"Terton",
+"PERSON",
+"",
+"Terton is a Krullian lengthman assigned to the 45th length of the Circumfence.",
+2,
+false
+],
+[
+"Tethis",
+"PERSON",
+"Tethys",
+"Tethis  is a sea troll made entirely from ambulatory water.",
+2,
+false
+],
+[
+"Weasel",
+"PERSON",
+"",
+"Shorter companion to Bravd the Hublander",
+2,
+false
+],
+[
+"Widdershins",
+"LOC",
+"Widdershin",
+"Widdershins is one of the four basic directions , and the opposite of turnwise. By going widdershins, you go against the turning direction of the Disc, in other words anti-clockwise.",
+2,
+false
+],
+[
+"Wyrmberg",
+"LOC",
+"",
+"Wyrmberg is the Dragon Home.",
+2,
+false
+],
+[
+"Wizards",
+"ORG",
+"",
+"Wizards are organized into 8 orders, and all high-level wizards belong to one of these orders. Each order has 1 8th-level wizard (the head of the order), ",
+2,
+false
+],
+[
+"Zlorf Flannelfoot",
+"PERSON",
+"Zlorf",
+"Zlorf Flannelfoot was president of the Assassins' Guild.",
+2,
+false
+],
+["Arch","LOC","","",0,true],
+["Australia","LOC","","",0,true],
+["Creation","LOC","","",0,true],
+["Introducing Discworld","GPE","","",0,true],
+["Terry Pratchett","PERSON","Pratchett,Terry","",null,true],
 ["Dere Mum","PERSON","dere","",null,true],
 ["dey","PERSON","","",null,true],
 ["Yez","PERSON","","",null,true],
@@ -1167,6 +1484,19 @@ false
 ["Beer","PRODUCT","","",0,true],
 ["Birthplace","LOC","","",0,true],
 ["Gait","LOC","","",0,true],
+["ICE","GPE","","",1,true],
+["Ladies","LOC","","",0,true],
+["midair","LOC","","",0,true],
+["New Zealand","LOC","","",0,true],
+["Octavo","LOC","","",0,true],
 ["Weight","LOC","","",0,true],
+["Number","LOC","","",0,true],
+["OOKS","LOC","","",0,true],
+["Power","LOC","","",0,true],
+["Tree","LOC","","",0,true],
+["bush","LOC","","",0,true],
+["HarperCollins Publishers Ltd","LOC","HarperCollins","",1,true],
+["UK","LOC","U.K,U.K.","",1,true],
+["vul","LOC","","",1,true],
 ["Fredor","PERSON","","",0,true]
 ]
