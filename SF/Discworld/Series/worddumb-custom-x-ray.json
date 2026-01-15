@@ -90,7 +90,7 @@ false
 [
 "Bel-Shamharoth",
 "PERSON",
-"Soul-Eater,Soul-Render,Sender of Eight",
+"Soul-Eater,Soul-Render,Soul Eater,Soul Render,Sender of Eight",
 "Bel-Shamharoth (also known as the \"Soul-Eater,\" the \"Soul-Render,\" or the \"Sender of Eight\") is an ancient, dark god.",
 1,
 false
@@ -338,17 +338,17 @@ false
 [
 "Cohen the Barbarian",
 "PERSON",
-"Ghenghiz Cohen",
-"Ghenghiz Cohen, known as Cohen the Barbarian, is a hero in the classical sense, that is, a professional thief, brawler and ravisher of women. Cohen is introduced in the second Discworld novel, 'The Light Fantastic'.",
-1,
+"Cohen,Ghenghiz Cohen",
+"Ghenghiz Cohen, known as Cohen the Barbarian, is a hero in the classical sense, that is, a professional thief, brawler and ravisher of women.",
+2,
 false
 ],
 [
 "Conina",
 "PERSON",
 "",
-"Conina is the daughter of Cohen the Barbarian and a temple dancer, introduced in the fifth Discworld novel, Sourcery. Described as both a well-endowed, beautiful, and a skilled fighter due to attributes inherited from both parents, she nonetheless aspires to be a hairdresser, despite her natural talents as a barbarian heroine, where her genetics keep getting in the way, so she instinctively kills people who threaten her.",
-1,
+"Conina is the daughter of Cohen the Barbarian and a temple dancer.",
+2,
 false
 ],
 [
@@ -683,7 +683,7 @@ false
 "Ronald Saveloy",
 "PERSON",
 "Saveloy",
-"Ronald Saveloy is a member of Cohen the Barbarian's Silver Horde. Unlike the elderly warriors that comprise the Horde, Saveloy is a former teacher from Ankh-Morpork. After discovering the Horde at a hideout of theirs whilst on a fossil hunting holiday, Saveloy joins them partly due to the underwhelming prospects of his academic career. Maintaining his mild-mannered demeanour including a vegetarian diet, he endeavours to 'civilise' the barbarians.",
+"Ronald Saveloy is an accidental member of Cohen the Barbarian's Silver Horde.",
 1,
 false
 ],
@@ -1216,6 +1216,14 @@ false
 false
 ],
 [
+"Dryads",
+"PERSON",
+"dryad,Hamadryad",
+"Dryads are the life-spirits that animate living trees",
+2,
+false
+],
+[
 "Jerakeen",
 "PERSON",
 "",
@@ -1292,6 +1300,22 @@ false
 "PERSON",
 "Bravd the Hublander",
 "Bravd is a tall warrior who swings a sword only marginally shorter than the average man",
+2,
+false
+],
+[
+"Druellae",
+"PERSON",
+"",
+"Druellae is a dryad who lives in a tree in the woods around the temple of Bel-Shamharoth. She has green skin, mossy looking hair, and wears only a medallion around her neck.",
+2,
+false
+],
+[
+"Dungeon Dimensions",
+"LOC",
+"",
+"The Dungeon Dimensions are the great dark dimensions less than a shadow's width away.",
 2,
 false
 ],
@@ -1380,6 +1404,14 @@ false
 "LOC",
 "",
 "The Rimfall is the endless waterfall of the Rim. It endlessly flows into space, taking many unfortunate things and creatures with it. The Discworld's water never runs out due to the Disc's magic.",
+2,
+false
+],
+[
+"Temple of Small Gods",
+"LOC",
+"",
+"The Temple of Small Gods in Ankh-Morpork is a large temple that sometimes serves as a meeting hall for the priests and priestesses of all the gods without enough believers to support a Temple of their own and is an important landmark.",
 2,
 false
 ],
