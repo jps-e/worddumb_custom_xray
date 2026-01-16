@@ -152,6 +152,14 @@ false
 false
 ],
 [
+"Hogswatch",
+"EVENT",
+"Hogswatchday,Hogswatchnight",
+"Hogswatch is the festival celebrating the winter solstice and the New Year across much of the Main continent and some other areas of Discworld. It falls on the 32nd of December, the new year beginning on the 1st of Ick.",
+2,
+false
+],
+[
 "Actors Guild",
 "ORG",
 "",
@@ -888,6 +896,14 @@ false
 false
 ],
 [
+"Great Hall",
+"LOC",
+"",
+"The Great Hall is the large eating area and banqueting suite at Unseen University.",
+2,
+false
+],
+[
 "Mustrum Ridcully",
 "PERSON",
 "Archchancellor,Ridcully,Ridcully the Brown",
@@ -970,7 +986,7 @@ false
 [
 "Ly Tin Wheedle",
 "PERSON",
-"Ly",
+"Ly,Ly Tin Weedle",
 "Ly Tin Wheedle is a Discworld philosopher from the Counterweight Continent that is is revered as a great sage for his many sayings.",
 1,
 false
@@ -1296,10 +1312,26 @@ false
 false
 ],
 [
+"Bethan",
+"PERSON",
+"",
+"Bethan is a girl encountered by Rincewind and Twoflower",
+2,
+false
+],
+[
 "Bravd",
 "PERSON",
 "Bravd the Hublander",
 "Bravd is a tall warrior who swings a sword only marginally shorter than the average man",
+2,
+false
+],
+[
+"Cori Celesti",
+"LOC",
+"",
+"Cori Celesti is the central mountain at the Disc's hub. It is a spire of grey stone and green ice and is roughly 10 miles high and it is the home of the Discworld gods.",
 2,
 false
 ],
@@ -1320,6 +1352,14 @@ false
 false
 ],
 [
+"Gancia",
+"PERSON",
+"",
+"Gancia is the leader of a band of Morpork mercenaries hired by Herrena the Henna-Haired Harridan.",
+2,
+false
+],
+[
 "Gorphal",
 "PERSON",
 "",
@@ -1332,6 +1372,14 @@ false
 "PERSON",
 "",
 "The former ruler of the Wyrmberg and a very powerful wizard",
+2,
+false
+],
+[
+"Herrena",
+"PERSON",
+"Henna-Haired Harridan",
+"Herrena the Henna-Haired Harridan is an old school barbarian heroine.",
 2,
 false
 ],
@@ -1376,6 +1424,14 @@ false
 false
 ],
 [
+"Lackjaw",
+"PERSON",
+"",
+"Lackjaw is a dwarf encountered by Cohen the Barbarian.",
+2,
+false
+],
+[
 "Lady",
 "PERSON",
 "",
@@ -1388,6 +1444,14 @@ false
 "PERSON",
 "",
 "The Luggage is a trunk with legs. It is made of sapient pearwood, and is immensely faithful. Its first owner was a tourist called Twoflower.",
+2,
+false
+],
+[
+"Olaf Quimby II",
+"PERSON",
+"Quimby",
+"Olaf Quimby II, formaer Patrician of Ankh",
 2,
 false
 ],
@@ -1516,6 +1580,7 @@ false
 ["Beer","PRODUCT","","",0,true],
 ["Birthplace","LOC","","",0,true],
 ["Gait","LOC","","",0,true],
+["HAT","GPE","","",1,true],
 ["ICE","GPE","","",1,true],
 ["Ladies","LOC","","",0,true],
 ["midair","LOC","","",0,true],
@@ -1525,6 +1590,10 @@ false
 ["Number","LOC","","",0,true],
 ["OOKS","LOC","","",0,true],
 ["Power","LOC","","",0,true],
+["shome","LOC","","",0,true],
+["shlup","LOC","","",0,true],
+["shtuff","LOC","","",0,true],
+["SPELLS","LOC","Spells","",0,true],
 ["Tree","LOC","","",0,true],
 ["bush","LOC","","",0,true],
 ["HarperCollins Publishers Ltd","LOC","HarperCollins","",1,true],
