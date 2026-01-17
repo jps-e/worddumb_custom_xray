@@ -1,0 +1,346 @@
+[
+  [
+    "Ye Zhetai",
+    "PERSON",
+    "",
+    "Physicist, professor at Tsinghua University",
+    null,
+    false
+  ],
+  [
+    "Shao Lin",
+    "PERSON",
+    "",
+    "Physicist, Ye Zhetai's wife",
+    null,
+    false
+  ],
+  [
+    "Ye Wenjie",
+    "PERSON",
+    "",
+    "Astrophysicist, daughter of Ye Zhetai",
+    null,
+    false
+  ],
+  [
+    "Ye Wenxue",
+    "PERSON",
+    "",
+    "Ye Wenjie's sister, a Red Guard",
+    null,
+    false
+  ],
+  [
+    "Lei Zhicheng",
+    "PERSON",
+    "",
+    "Political commissar at Red Coast Base",
+    null,
+    false
+  ],
+  [
+    "Yang Weining",
+    "PERSON",
+    "",
+    "Chief engineer at Red Coast Base, once a student of Ye Zhetai",
+    null,
+    false
+  ],
+  [
+    "Yang Dong",
+    "PERSON",
+    "",
+    "String theorist and daughter of Ye Wenjie and Yang Weining",
+    null,
+    false
+  ],
+  [
+    "Ding Yi",
+    "PERSON",
+    "",
+    "Theoretical physicist, Yang Dong's boyfriend",
+    null,
+    false
+  ],
+  [
+    "Wang Miao",
+    "PERSON",
+    "Xiao Wang",
+    "Nanomaterials researcher",
+    null,
+    false
+  ],
+  [
+    "Shi Qiang",
+    "PERSON",
+    "Da Shi",
+    "Police detective, nicknamed Da Shi",
+    null,
+    false
+  ],
+  [
+    "Chang Weisi",
+    "PERSON",
+    "",
+    "Major-general of the People's Liberation Army; Space Force Commander",
+    null,
+    false
+  ],
+  [
+    "Shen Yufei",
+    "PERSON",
+    "",
+    "Japanese physicist and member of the Frontiers of Science",
+    null,
+    false
+  ],
+  [
+    "Wei Cheng",
+    "PERSON",
+    "",
+    "Math prodigy and recluse, Shen Yufei's husband",
+    null,
+    false
+  ],
+  [
+    "Pan Han",
+    "PERSON",
+    "",
+    "Biologist, friend/acquaintance of Shen Yufei and Wei Cheng, and member of the Frontiers of Science",
+    null,
+    false
+  ],
+  [
+    "Sha Ruishan",
+    "PERSON",
+    "",
+    "Astronomer, one of Ye Wenjie's students",
+    null,
+    false
+  ],
+  [
+    "Mike Evans",
+    "PERSON",
+    "",
+    "Scion of an oil magnate",
+    null,
+    false
+  ],
+  [
+    "Colonel Stanton",
+    "PERSON",
+    "",
+    "U.S. Marine Corps, commander of Operation Guzheng",
+    null,
+    false
+  ],
+  [
+    "Mozi",
+    "PERSON",
+    "",
+    "Chinese philosopher who lived and worked in the 5th century B.C.E.",
+    null,
+    false
+  ],
+  [
+    "ETO",
+    "ORG",
+    "Earth-Trisolaris Organization",
+    "Earth-Trisolaris Organization (ETO) is a human organization dedicated to helping the Trisolarians invade Earth and destroy human civilization. The organization was founded by Ye Wenjie and Mike Evans. ",
+    null,
+    false
+  ],
+  [
+    "SFJC",
+    "ORG",
+    "",
+    "Solar Fleet Joint Conference",
+    null,
+    false
+  ],
+  [
+    "PDC",
+    "ORG",
+    "",
+    "Planetary Defense Council",
+    null,
+    false
+  ],
+  [
+    "Luo Ji",
+    "PERSON",
+    "",
+    "Astronomer and sociologist",
+    null,
+    false
+  ],
+  [
+    "Wu Yue",
+    "PERSON",
+    "",
+    "Captain in the PLA Navy",
+    null,
+    false
+  ],
+  [
+    "Zhang Beihai",
+    "PERSON",
+    "",
+    "Political commissar in the PLA Navy; Space Force officer",
+    null,
+    false
+  ],
+  [
+    "Kent",
+    "PERSON",
+    "",
+    "Liaison to the PDC",
+    null,
+    false
+  ],
+  [
+    "Secretary General Say",
+    "PERSON",
+    "",
+    "Secretary General Say&#x00A0;&#x00A0;&#x00A0;&#x00A0;Secretary general of the UN",
+    null,
+    false
+  ],
+  [
+    "Frederick Tyler",
+    "PERSON",
+    "",
+    "Former US secretary of defense",
+    null,
+    false
+  ],
+  [
+    "Bill Hines",
+    "PERSON",
+    "",
+    "English neuroscientist; former president of the EU",
+    null,
+    false
+  ],
+  [
+    "Keiko Yamasuki",
+    "PERSON",
+    "",
+    "Neuroscientist; Hines' wife",
+    null,
+    false
+  ],
+  [
+    "Garanin",
+    "PERSON",
+    "",
+    "PDC rotating chair",
+    null,
+    false
+  ],
+  [
+    "Ding Yi",
+    "PERSON",
+    "",
+    "Theoretical physicist",
+    null,
+    false
+  ],
+  [
+    "Zhuang Yan",
+    "PERSON",
+    "",
+    "Graduate of the Central Academy of Fine Arts",
+    null,
+    false
+  ],
+  [
+    "Ben Jonathan",
+    "PERSON",
+    "",
+    "Fleet Joint Conference special commissioner",
+    null,
+    false
+  ],
+  [
+    "Dongfang Yanxu",
+    "PERSON",
+    "",
+    "Captain of Natural Selection",
+    null,
+    false
+  ],
+  [
+    "Major Xizi",
+    "PERSON",
+    "",
+    "Science officer of Quantum",
+    null,
+    false
+  ],
+  [
+    "Zhang Yuanchao",
+    "PERSON",
+    "",
+    "Recently retired chemical plant worker in Beijing.",
+    null,
+    false
+  ],
+  [
+    "Cheng Xin",
+    "PERSON",
+    "",
+    "She is an aerospace engineer, Swordholder, and diplomat.",
+    null,
+    false
+  ],
+  [
+    "Yun Tianming",
+    "PERSON",
+    "",
+    "Engineer aquaintance of Cheng Xin",
+    null,
+    false
+  ],
+  [
+    "AA",
+    "PERSON",
+    "",
+    "AA is an astronomer who discovered that the star DX3906 had two habitable planets. Later, AA became the assistant and close friend of Cheng Xin.",
+    null,
+    false
+  ],
+  [
+    "Prince Ice Sand",
+    "PERSON",
+    "",
+    "Ice",
+    null,
+    false
+  ],
+  [
+    "Sophon",
+    "PERSON",
+    "",
+    "Sophon is an AI robot developed by the Trisolarans to be their voice on Earth and communicate with humanity.",
+    null,
+    false
+  ],
+  [
+    "Natural Selection",
+    "FAC",
+    "",
+    "Natural Selection is a Stellar-class Warship. It is the flagship of the 3rd Squadron of the Asian Fleet, and it is the  largest ship of all the fleets based on gross tonnage. Natural Selection is capable of accelerating to 15% of the speed of light",
+    null,
+    false
+  ],
+  [
+    "Quantum",
+    "FAC",
+    "",
+    "Quantum is a human space warship of the Stellar-class Warships.",
+    null,
+    false
+  ]
+]
